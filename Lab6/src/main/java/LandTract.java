@@ -95,7 +95,7 @@ public class LandTract {
 		System.out.println(land2.toString());
 		
 		if (land1.equals(land2))
-			System.out.println("The two tracts have the same size.");
+			System.out.println("The two tracts are equal the size.");
 		else
 			System.out.println("The two tracts do not have the same size.");
 		
